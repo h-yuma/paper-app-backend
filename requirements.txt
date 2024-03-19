@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Flask-Migrate
+psycopg2
+gunicorn
+deepl
+httpx
+logger
+colorlog
+pytz
+semantic_kernel
+openai

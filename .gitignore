@@ -1,0 +1,5 @@
+.env
+/env
+/docker
+/migrations
+__pycache__
